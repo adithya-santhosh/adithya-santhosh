@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adithya-santhosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-santhosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adithya-santhosh-8b7a44271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-santhosh" height="30" width="40" /></a>
 <a href="https://kaggle.com/adithyasanthosh13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adithyasanthosh13" height="30" width="40" /></a>
 <a href="https://instagram.com/_adithya._.santhosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adithya._.santhosh_" height="30" width="40" /></a>
 </p>
